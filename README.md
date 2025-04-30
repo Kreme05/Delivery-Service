@@ -56,5 +56,11 @@ Stage 7: Receipts
 ## Learning Outcomes
 - The importance of a testing code from each class
 - Implement and use basic data structures (linked lists, arrays)
-- Apply recursion and string manipulation
 - Follow the code conventions to in my software development model
+- Implement file I/O (read/write from CSV files)
+- Use algorithms for sorting, searching, and route optimization
+- Apply object-oriented programming principles (encapsulation, inheritance, polymorphism)
+
+
+
+
