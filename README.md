@@ -1,6 +1,5 @@
-# CS-115 Programming II - Coursework 2: Delivery Service Program
-> ⚠️ Academic Integrity Notice  
-> The code in this repository is part of my university coursework. It is shared for learning and portfolio purposes only. Please do not copy or submit this as your own work in any course or assignment.
+# Project Structure: JavaFX Delivery Service Program
+- A modular Java project simulating the delivery and routing of perishable and non-perishable items through a network of connected sorting offices. It includes data handling, routing rules, file I/O, and receipt generation.
 
 ## Assignment Structure
 
