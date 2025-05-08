@@ -1,7 +1,7 @@
-# Project Structure: JavaFX Delivery Service Program
+# Project Structure: Delivery Service
 - A modular Java project simulating the delivery and routing of perishable and non-perishable items through a network of connected sorting offices. It includes data handling, routing rules, file I/O, and receipt generation.
 
-## Assignment Structure
+## 📌 Features by Stage
 
 ### Stage 1: SortingOffice Class
 - Attributes: officeName, location, postcode, internationalPostcode, connectedOffices
