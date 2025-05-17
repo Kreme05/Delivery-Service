@@ -1,0 +1,8 @@
+460 130 Scotland false AB,DD
+560 320 Scotland true EH,G
+300 440 Ireland true BT
+720 560 England false L,M,HP
+480 630 Wales false CH,LD
+510 790 Wales true SA,CF
+700 800 England true EC
+460 900 England false PL

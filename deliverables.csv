@@ -1,0 +1,15 @@
+SA,CH,Produce
+HP,SA,Plant
+BT,AB,NonPerishable,10.00,true
+EH,HP,NonPerishable,8.00,false
+PL,DD,Plant
+SA,EH,Produce
+CF,BT,Produce
+M,SA,Plant
+BT,AB,Produce
+DD,L,NonPerishable,2.00,false
+G,LD,Plant
+AB,PL,Produce
+DD,L,NonPerishable,5.00,true
+PL,SA,Plant
+BT,PL,NonPerishable,6.00,false
