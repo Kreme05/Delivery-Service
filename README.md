@@ -1,6 +1,11 @@
 # Project Structure: Delivery Service
 - A modular Java project simulating the delivery and routing of perishable and non-perishable items through a network of connected sorting offices. It includes data handling, routing rules, file I/O, and receipt generation.
 
+## Project Screenshot
+![image](https://github.com/user-attachments/assets/819deafb-e35c-418a-b4cc-09bb86a70238)
+
+
+
 ## 📌 Features by Stage
 
 ### Stage 1: SortingOffice Class
